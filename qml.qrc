@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Settings.qml</file>
+        <file>qml/Home.qml</file>
+        <file>qml/CustomComboBox.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>graphics/backIcon.svg</file>
+        <file>graphics/settingsIcon.svg</file>
+        <file>i18n/translation_es.qm</file>
+        <file>i18n/translation_pl.qm</file>
+        <file>icons/macIcon.icns</file>
+        <file>icons/windowsIcon.ico</file>
+    </qresource>
+</RCC>
