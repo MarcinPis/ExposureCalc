@@ -1,6 +1,5 @@
 #include "aperturemodel.h"
 #include <algorithm>
-#include <QDebug>
 #include <QSettings>
 
 ApertureModel::ApertureModel(QObject *parent)

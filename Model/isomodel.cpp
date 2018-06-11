@@ -1,6 +1,5 @@
 #include "isomodel.h"
 #include <algorithm>
-#include <QDebug>
 #include <QSettings>
 
 IsoModel::IsoModel(QObject *parent)

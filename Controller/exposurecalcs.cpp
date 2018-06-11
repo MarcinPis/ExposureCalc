@@ -1,7 +1,6 @@
 #include "exposurecalcs.h"
 
 #include <cmath>
-#include <QDebug>
 #include <QtMath>
 #include <algorithm>
 

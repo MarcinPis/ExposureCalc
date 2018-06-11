@@ -1,6 +1,5 @@
 #include "shuttermodel.h"
 #include <algorithm>
-#include <QDebug>
 #include <QSettings>
 
 ShutterModel::ShutterModel(QObject *parent)
