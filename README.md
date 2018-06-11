@@ -13,7 +13,7 @@ The goal was to create a cross-platform app using only one source code with as l
 * [Qt 5.9.5](https://www.qt.io/) - The cross-platform software development framework
 
 ## Release
-There are ready to use binaries on below platforms:
+There are ready to use binaries for below platforms:
 * [Windows](https://github.com/MarcinPis/ExposureCalc/releases/tag/v1.0.0) – compiled on Windows 10 with MinGW 5.3.0. Tested on Windows 10 and Windows 8.1 64 bits systems.
 * [macOS](https://github.com/MarcinPis/ExposureCalc/releases/tag/v1.0.0) – compiled on macOS High Sierra (10.13) with Clang. Tested on macOS High Sierra (10.13) system.
 * [Android armeabi-v7a](https://github.com/MarcinPis/ExposureCalc/releases/tag/v1.0.0) – compiled on Windows 10 with GCC 4.9. Minimum system requirement is Android 4.1 (API 16). Tested on Android 4.3 and 7.0 systems.
