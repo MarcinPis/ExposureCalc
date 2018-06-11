@@ -4,9 +4,7 @@
 The application is written in C++ and QML with Qt framework. This allows to deploy on multiple systems including: Windows, macOS, Android and iOS.
 Application is translated into English and Polish. 
 
-![Main Screen](screenshots/macOS_mainpage.png "App main screen")
-
-![Settings Screen](screenshots/macOS_settings.png "App settings screen")
+![Main Screen](screenshots/macOS_mainpage.png "App main screen") ![Settings Screen](screenshots/macOS_settings.png "App settings screen")
 
 ## Motivation
 The goal was to create a cross-platform app using only one source code with as little as possible code modifications, learning Qt framework in the process.
